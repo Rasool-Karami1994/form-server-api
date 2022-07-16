@@ -9,7 +9,8 @@
       "passwordConfirmation": "Rasool@2304",
       "gender": "0",
       "country": "IR",
-      "intrests":["React"]
+      "intrests": ["React.js"],
+      "terms": true
     }
   ]
 }
