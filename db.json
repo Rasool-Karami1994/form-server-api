@@ -1,8 +1,8 @@
 {
 
   "users": [
-    {
-  "id": "1",
+   {
+  "id": 1,
   "name": "Rasool",
   "email": "rasoolkarami2304@gmail.com",
   "password": "Rasool@2304",
@@ -12,3 +12,4 @@
     }
   ]
 }
+
